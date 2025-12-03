@@ -68,9 +68,9 @@ img
     
     margin-left:200px;
     margin-top:95px;
-
-
 }
+
+
 
 a
 {position:relative;
@@ -80,6 +80,10 @@ a
     background:#6D6969;
     color:#ffffff;
 
+}
+section
+{
+    margin-left:1px;
 }
 h4
 {
@@ -96,10 +100,6 @@ ul
    margin-top:70px;
    font-size:25px;
 
-}
-2
-{
-    font-size:30px;
 }
 
 a:hover
