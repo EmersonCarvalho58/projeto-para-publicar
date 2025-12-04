@@ -16,6 +16,13 @@ h1
     margin-left:100px;
     font-size:72px;
 }
+p2
+{
+    display:block;
+    font-size:21px;
+    margin-left:509px;
+    margin-top:-25PX;
+}
 
 h2
 {
@@ -128,6 +135,13 @@ a:active
         width:auto;
         font-weight:900;
 }
+    p2
+    {
+        display:block;
+        font-size:8px;
+        margin-left:119px;
+        margin-top:-25px;
+    }
     h2
     {
         font-size:12px;
